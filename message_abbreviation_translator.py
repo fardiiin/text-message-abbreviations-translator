@@ -1,5 +1,4 @@
 import csv
-from pickle import TRUE
 
 def main():
     sentence = input("Enter a sentence with abbreviations (no punctuations):\n> ")
